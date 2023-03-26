@@ -3,4 +3,4 @@
 <body>
 <table border="1" width="100%">
  <tbody>
- 	<tr><td><img src="HeroHospitalPowerBI"  width="800" height="400"> </td></tr>
+ 	<tr><td><img src="HeroHospitalPowerBI.jpg"  width="800" height="400"> </td></tr>
